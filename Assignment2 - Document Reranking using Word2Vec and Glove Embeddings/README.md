@@ -94,5 +94,5 @@ https://towardsdatascience.com/a-word2vec-implementation-using-numpy-and-python-
 For more details, refer to : 2021ME10973.pdf
 
 #### P.S. Note : 
-The docs file is not provided due to its large size (*~22 GB*)
+The docs file is not provided due to its large size (*~22 GB*)<br>
 The generic embeddings files are also not provided due to their large size(*~300 MB*)
